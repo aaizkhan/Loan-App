@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AnimeXstram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Iza" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PayStack_paymentGateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Retrofit example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Retrofit-MVP-Kotlin-Example" vcs="Git" />
+  </component>
+</project>

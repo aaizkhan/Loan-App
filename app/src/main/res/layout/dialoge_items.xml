@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="270dp"
+    android:gravity="center"
+    android:padding="20dp"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="Loan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+
+    <EditText
+        android:id="@+id/edt_title"
+        android:inputType="text"
+        android:textSize="15sp"
+        android:hint="Title"
+        android:layout_marginTop="15dp"
+        android:padding="10dp"
+        android:background="@drawable/edt_shape"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edt_amount"
+        android:inputType="number"
+        android:textSize="15sp"
+        android:hint="Amount"
+        android:layout_marginTop="15dp"
+        android:padding="10dp"
+        android:background="@drawable/edt_shape"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btn_addLoan"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="ADD"
+        android:backgroundTint="@color/app_brown"
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
